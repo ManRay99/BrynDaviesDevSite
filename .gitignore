@@ -1,3 +1,6 @@
 # Specific files #
 ##################
 BrynDaviesDev/BrynDaviesDev/settings.py
+BrynDaviesDevPage/BrynDaviesDevPage/settings.py
+*.pyc
+*.sqlite3
